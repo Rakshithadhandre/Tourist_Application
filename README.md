@@ -1,2 +1,2 @@
 # Tourist_Application
-Create Tourist site using HTML, JavaScript, CSS web application.
+Create Tourist site using HTML, CSS, JavaScript web application.
